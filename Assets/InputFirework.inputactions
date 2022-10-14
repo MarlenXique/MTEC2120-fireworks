@@ -1,0 +1,34 @@
+{
+    "name": "InputFirework",
+    "maps": [
+        {
+            "name": "Fireworks",
+            "id": "9fdbd33d-7ab0-41d4-a3d0-7b6583aedfd9",
+            "actions": [
+                {
+                    "name": "Show Friework",
+                    "type": "Button",
+                    "id": "e694fc5b-c8f6-410c-bda3-aa9d8d798250",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c4925a58-3b51-488a-bde1-62b7b04f459e",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Show Friework",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
